@@ -1,0 +1,52 @@
+Privacy Policy for E.B.S.A.
+
+
+Developer: Tamás Bánki
+
+This privacy policy is used to inform you regarding policies with the collection, use, and 
+disclosure of Personal Information if anyone decided to use this Service.
+
+
+1. Overview
+
+This application uses third party libraries as:
+- Google Play Services
+- MPAndroidChart	(com.github.PhilJay:MPAndroidChart)
+- itextpdf		(com.itextpdf:itextg)
+- JUnit			(junit:junit)
+- OpenCSV
+- FloatingActionButton  (com.getbase:floatingactionbutton)
+
+
+2.) Sharing Your Information
+
+The application doesn't collects and share any personal data.
+
+
+3. What information are collected and why
+
+All given information (Revenues & expenditures) are stored locally in an SQLite database.
+The database can be mannually backup to the user's Google Drive. 
+
+4. Security
+
+The application has a basic pin code protection, but I cannot guarantee absolute security.
+
+
+5. Children’s Privacy
+
+The app does not collect or share any personal information about children.
+
+
+6. Distribution
+
+Official channel for distribution of the app is:
+Google Play	https://play.google.com/store
+
+Any other mode of distribution is not official and thus, is not maintained by the developer.
+This privacy policy is effective to distribution made on official channel only.
+
+
+7. Changes to This Privacy Policy
+
+This policy may be updated from time to time.
