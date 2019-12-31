@@ -1,0 +1,46 @@
+Privacy Policy for VAT Calculator
+
+
+Developer: Tamás Bánki
+
+This privacy policy is used to inform you regarding policies with the collection, use, and 
+disclosure of Personal Information if anyone decided to use this Service.
+
+
+1. Overview
+
+This application uses third party libraries as:
+- Google Play Services
+- Fabric.io
+- Android Shared Preferences	(com.github.mukeshsolanki:Android-Shared-Preferences-TinyDB-)
+- indeterminate-checkbox	(com.github.sevar83:indeterminate-checkbox)
+- MaterialIntroView		(com.github.iammert:MaterialIntroView)
+
+
+2.) Sharing Your Information
+
+The application doesn't collects and share any personal data.
+
+
+3. What information are collected and why
+
+When the user selects a country it will be sent to the Fabric.io which serves only statistic purposes. 
+
+
+4. Children’s Privacy
+
+The app does not collect or share any personal information about children.
+
+
+6. Distribution
+
+Official channel for distribution of the app is:
+Google Play	https://play.google.com/store
+
+Any other mode of distribution is not official and thus, is not maintained by the developer.
+This privacy policy is effective to distribution made on official channel only.
+
+
+7. Changes to This Privacy Policy
+
+This policy may be updated from time to time.
