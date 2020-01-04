@@ -10,7 +10,6 @@ disclosure of Personal Information if anyone decided to use this Service.
 1. Overview
 
 This application uses third party libraries as:
-- Google Play Services
 - MPAndroidChart	(com.github.PhilJay:MPAndroidChart)
 - itextpdf		(com.itextpdf:itextg)
 - JUnit			(junit:junit)
