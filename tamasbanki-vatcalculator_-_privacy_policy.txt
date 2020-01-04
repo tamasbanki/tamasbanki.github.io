@@ -10,11 +10,7 @@ disclosure of Personal Information if anyone decided to use this Service.
 1. Overview
 
 This application uses third party libraries as:
-- Google Play Services
-- Fabric.io
-- Android Shared Preferences	(com.github.mukeshsolanki:Android-Shared-Preferences-TinyDB-)
-- indeterminate-checkbox	(com.github.sevar83:indeterminate-checkbox)
-- MaterialIntroView		(com.github.iammert:MaterialIntroView)
+- OpenCSV   (com.opencsv:opencsv)
 
 
 2.) Sharing Your Information
@@ -24,7 +20,7 @@ The application doesn't collects and share any personal data.
 
 3. What information are collected and why
 
-When the user selects a country it will be sent to the Fabric.io which serves only statistic purposes. 
+The app does not collect any information.
 
 
 4. Children’s Privacy
